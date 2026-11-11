@@ -28,3 +28,14 @@
 ### Working
 LEDs blink in order: 15 -> 2 -> 5 -> 18 -> 19 -> 21 -> 23
 Each LED stays ON for 100ms then OFF.
+
+### Circuit Photo
+![Circuit](led_chaser.jpeg)
+
+### Circuit Diagram
+![Diagram](led_chaser_dig.jpeg)
+
+### Demo Video
+[Click here to watch demo video](led_chaser_vid.mp4)
+4. Select Board: ESP32 Dev Module
+5. Select Port and Click Upload
